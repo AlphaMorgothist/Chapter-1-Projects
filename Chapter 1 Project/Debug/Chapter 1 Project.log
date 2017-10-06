@@ -1,0 +1,10 @@
+﻿  Chapter1Project.cpp
+c:\users\m0r607h mk2\source\repos\chapter 1 project\chapter 1 project\chapter1project.cpp(94): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\m0r607h mk2\source\repos\chapter 1 project\chapter 1 project\chapter1project.cpp(95): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\m0r607h mk2\source\repos\chapter 1 project\chapter 1 project\chapter1project.cpp(224): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\m0r607h mk2\source\repos\chapter 1 project\chapter 1 project\chapter1project.cpp(225): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\m0r607h mk2\source\repos\chapter 1 project\chapter 1 project\chapter1project.cpp(226): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\m0r607h mk2\source\repos\chapter 1 project\chapter 1 project\chapter1project.cpp(307): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\m0r607h mk2\source\repos\chapter 1 project\chapter 1 project\chapter1project.cpp(309): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Chapter 1 Project.vcxproj -> c:\users\m0r607h mk2\source\repos\Chapter 1 Project\Debug\Chapter 1 Project.exe
+  Chapter 1 Project.vcxproj -> c:\users\m0r607h mk2\source\repos\Chapter 1 Project\Debug\Chapter 1 Project.pdb (Partial PDB)
